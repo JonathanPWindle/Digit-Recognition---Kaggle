@@ -1,2 +1,4 @@
 venv/
 .idea/
+MNIST_data/
+__pycache__/
